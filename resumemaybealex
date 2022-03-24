@@ -1,0 +1,48 @@
+<div id="header"></div>
+<div class="left"></div>
+<div class="stuff">
+  <br><br>
+  <h1>Alex Perrine</h1>
+  <h2>Contact Information not for public viewing</h2>
+  <hr />
+  <br>
+  <p class="head">Certifications</p>
+  <ul>
+    <li>ASMC</li>
+    <li>SMC</li>
+    <li>ITF</li>
+    <li>AWS CCP (Summer 2022) </li>
+    <li>NET+ (Fall 2022)</li>
+  </ul>
+  <p class="head">Education</p>
+  <ul>
+    <li>B.S. Cybersecurity Central Methodist University 2022  3.4 Overall GPA</li>
+    <li>A.S. Interdisciplinary Studies Central Methodist University 2019</li>
+  </ul>
+  <p class="head">Experience</p>
+  <ul>
+    <a href="https://www.ispn.net/">
+      <li>ISPN: Level I Help Desk</li>
+    </a>
+    <!--Link-->
+    <a href="https://www.magicare.com/">
+      <li>Magicare: Social Media Manager </li>
+    </a> <a href="https://www.fpsinc.com/">
+    <li>FPS: Customer Retention Specialist</li>
+ <a href="https://www.cmueagles.com/landing/index">
+      <li>CMU: Administrative Assistant to VP of Athletics</li>
+    </a>
+    <a href="https://centralmethodist.edu/admissions/business-office/index.html">
+      <li>CMU: Assistant Supervisor of Student Billing Office</li>
+    </a>
+  </ul>
+  <p class="head">Extracurriculars</p>
+  <ul>
+    <li>Women in Cybersecurity</li>
+    <li>Cyberskyline</li>
+    <li>TryHackMe</li>
+  </ul>
+</div>
+<div class="right"></div>
+<div id="footer">
+  <h2 id="name">Alex</h2></div>
